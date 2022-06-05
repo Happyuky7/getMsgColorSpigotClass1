@@ -4,7 +4,7 @@ import org.bukkit.Bukkit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class MessagesUtils {
+public class MessageColors {
 
     public static String getMsgColor(String text) {
 
