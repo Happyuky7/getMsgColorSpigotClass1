@@ -5,6 +5,13 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class MessageColors {
+    
+    /*
+     Code by: HappyRogelio7
+     Github: https://github.com/HappyRogelio7
+     License: Custom
+     Link: https://github.com/HappyRogelio7/getMsgColorSpigotClass1
+     */
 
     public static String getMsgColor(String text) {
 
