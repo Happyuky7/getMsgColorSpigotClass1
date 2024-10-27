@@ -5,7 +5,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class MessageColors {
-    
+
     /*
      Code by: Happyuky7
      Github: https://github.com/Happyuky7
@@ -27,7 +27,8 @@ public class MessageColors {
                 || Bukkit.getVersion().contains("1.20.2") || Bukkit.getVersion().contains("1.20.3")
                 || Bukkit.getVersion().contains("1.20.4") || Bukkit.getVersion().contains("1.20.5")
                 || Bukkit.getVersion().contains("1.20.6") || Bukkit.getVersion().contains("1.21")
-                || Bukkit.getVersion().contains("1.21.1") 
+                || Bukkit.getVersion().contains("1.21.1") || Bukkit.getVersion().contains("1.21.2")
+                || Bukkit.getVersion().contains("1.21.3") || Bukkit.getVersion().contains("1.21.4")
         ) {
 
             Pattern pattern = Pattern.compile("#[a-fA-F0-9]{6}");
